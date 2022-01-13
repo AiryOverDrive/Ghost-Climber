@@ -1,2 +1,1 @@
-# Ghost-Climber
-Yes
+# c19Plantilla
